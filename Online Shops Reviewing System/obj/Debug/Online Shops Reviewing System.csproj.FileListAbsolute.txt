@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online Shops Reviewing System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.Properties.Resources.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online Shops Reviewing System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online Shops Reviewing System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.LoginFrame.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\bin\Debug\Online Shops Reviewing System.exe.config
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\bin\Debug\Online Shops Reviewing System.exe
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\bin\Debug\Online Shops Reviewing System.pdb
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online Shops Reviewing System.exe
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online Shops Reviewing System.pdb
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online Shops Reviewing System.exe.config
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.Admin_Home_Frame.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.MyAccount.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\bin\Debug\SignUp.resx
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.RegularUserHome.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.SignUp.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.PlatformModerator.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.CreateShopFrame.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.Buy_Premium_Frame.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.ShopAdminHomeFrame.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.GiveShopReview.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.ManageShopDetails.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.GiveProductReview.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.ReportManagement.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.ManageReview.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.ViewReviewFrame.resources
+C:\Users\User\Desktop\Online Shops Reviewing System\Online Shops Reviewing System\obj\Debug\Online_Shops_Reviewing_System.MakeReport.resources
